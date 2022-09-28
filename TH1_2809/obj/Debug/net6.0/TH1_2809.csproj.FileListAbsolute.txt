@@ -1,0 +1,15 @@
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\bin\Debug\net6.0\TH1_2809.exe
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\bin\Debug\net6.0\TH1_2809.deps.json
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\bin\Debug\net6.0\TH1_2809.runtimeconfig.json
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\bin\Debug\net6.0\TH1_2809.dll
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\bin\Debug\net6.0\TH1_2809.pdb
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.csproj.AssemblyReference.cache
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.AssemblyInfoInputs.cache
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.AssemblyInfo.cs
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.csproj.CoreCompileInputs.cache
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.dll
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\refint\TH1_2809.dll
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.pdb
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\TH1_2809.genruntimeconfig.cache
+C:\Users\NamLDC\Code_C#\Thuc_Hanh\TH1_2809\TH1_2809\obj\Debug\net6.0\ref\TH1_2809.dll
